@@ -1,0 +1,61 @@
+.intro {
+    display: block;
+    background: rgb(243, 251, 251);
+    border: thin gray solid;
+    padding: 1.5%;
+}
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.declaration {
+    text-align: center;
+    font-size: 1.2rem;
+}
+p.lecture{
+    width: 60%;
+    text-align: justify;
+    margin: 0 auto;
+    font-size: 1.17rem;
+}
+ol {
+    font-size: 1.2rem;
+}
+p {
+    text-align: left;
+    font-size: 1.17rem;
+}
+.shift {
+    margin-left: 1%;
+    padding: 1%;
+}
+.truths {
+    background: rgb(240, 249, 222);
+    padding: 1.5%;
+}
+.prudence {
+    background: rgb(248, 239, 226);
+    padding: 1.5%;
+}
+.video {
+    width: 60%;
+    height: 60vh;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 3%;
+}
+.quiz {
+    background:rgb(177, 177, 176);
+    padding: 1.5%;
+}
+.quizHeading {
+    text-align: center;
+    font-size: 1.8rem;
+}
+.quizMsg {
+    display: flex;
+    width: 65%;
+    text-align: left;
+    margin: 0 auto;
+}
